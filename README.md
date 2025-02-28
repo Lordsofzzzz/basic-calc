@@ -29,7 +29,7 @@ gcc calculator.c -o calculator
 1. ▶️ Run the program.
 2. 🔢 Enter the first number.
 3. ➕➖✖️➗ Enter an arithmetic operator (`+`, `-`, `*`, `/`).
-4. 🔢 Enter the second number.
+4. 🔢 Enter the 2nd number.
 5. 🎉 Get the results!
 
 ## 🔍 Example Run
