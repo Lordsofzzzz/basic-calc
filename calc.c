@@ -23,8 +23,12 @@ int main() {
         case '*':
             result = num1 * num2;
             break;
-         case'%':
-         result= num1 % num2;
+        case'%':
+            if(num2==0){
+                printf("0 is invalid");
+                return 2;
+            }
+            result = num1 % num2;
         case '/':
             if (num2 == 0) {
                 printf("Error! Division by zero is not allowed.\n");
