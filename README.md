@@ -4,7 +4,7 @@ This is a simple calculator program written in **C** that performs basic arithme
 
 ## Features
 
-- ✅ Supports four basic operations: `+`, `-`, `*`, `/`
+- ✅ Supports four basic operations: `+`, `-`, `*`, `/`,`%`
 - ⚠️ Handles division by zero with an error message
 - 📝 Takes user input for two numbers and an operator
 
